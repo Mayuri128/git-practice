@@ -1,0 +1,3 @@
+# Dockerfile
+FROM alpine
+CMD ["echo", "🎉 Docker build and run successful!"]
